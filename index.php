@@ -24,7 +24,7 @@ January 2006, this website has seen 453&nbsp;409 visits
 
 <p>Have a look at <a href="switch/try/oneday/index.php">One day with Linux (a screenshot tour)</a>!</p>
 <p>Note: The following features are not specific to just Linux, 
-there are <a href="https://en.wikipedia.org/wiki/Berkeley_Software_Distribution"> BSDs</a> </p>
+there are <a href="https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems"> BSDs</a> </p>
 <!--<span>See some <a href="quotes">quotes</a> about this website!</span> -->
 
 </div>
